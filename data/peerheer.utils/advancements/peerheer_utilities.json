@@ -1,0 +1,19 @@
+{
+    "display": {
+      "title": "PeerHeer Utilities",
+      "description": "Utilities required for datapacks made by PeerHeer",
+      "icon": {
+        "item": "minecraft:compass",
+        "nbt": "{Enchantments: [{id: \"minecraft:sharpness\", lvl: 1s}]}"
+      },
+      "background": "minecraft:textures/block/black_concrete_powder.png",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "parent": "global:peerheer",
+    "criteria": {
+      "trigger": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
