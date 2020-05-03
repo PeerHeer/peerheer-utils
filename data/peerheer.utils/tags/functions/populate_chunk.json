@@ -1,6 +1,5 @@
 {
     "values": [
-        "#peerheer.utils:setblock",
-        "#peerheer.utils:summon"
+        "#peerheer.utils:setblock"
     ]
 }
